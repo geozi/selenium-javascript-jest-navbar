@@ -38,6 +38,4 @@ There were 2 suites of tests created, each covering a distinct user-initiated ke
 </p>
 
 
-
-
 [^1]: Disclaimer: This website was tested in order to showcase the use of Selenium with Javascript and Jest, and such testing does not constitute an endorsement or promotion of said website.
