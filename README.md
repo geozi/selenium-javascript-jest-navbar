@@ -2,15 +2,15 @@
 
 ![Functional Testing Demo App](https://img.shields.io/badge/Demo_project-blue)
 
-### About the project
+## About the project
 
-The project showcases the use of Selenium with JavaScript and Jest for performing functional tests on a navbar.
+The project showcases the use of Selenium with JavaScript and its combination with the Jest testing framework for performing User Interface (UI) tests on a navbar.
 
-### Website[^1]
+## Website[^1]
 
 The website where the element is located is the https://www.allianz.com/en.html .
 
-### Web element under test
+## Web element under test
 
 The web element tested was the navbar found on the landing page of the website:
 
@@ -18,16 +18,16 @@ The web element tested was the navbar found on the landing page of the website:
   <img src="https://github.com/user-attachments/assets/8ca332e7-9eed-420a-bae5-4cb6a52e2c3a">
 </div>
 
-### Tests performed
+## Tests performed
 
 There were 2 suites of tests created, each covering a distinct user-initiated keyboard operation:
 
 - Hovering over each navbar link.
 - Clicking each navbar link.
 
-### Dependencies
+## Dependencies
 
-```javascript
+```json
   "dependencies": {
     "selenium-webdriver": "^4.25.0"
   },
